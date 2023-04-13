@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/dhruvtilva73" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvtilva7383?logo=twitter&style=for-the-badge" alt="dhruvtilva7383" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhruvtilva73" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvtilva73?logo=twitter&style=for-the-badge" alt="dhruvtilva73" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain Concepts & Back-End Development**
 
