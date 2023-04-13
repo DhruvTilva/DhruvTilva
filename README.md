@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhruvtilva7383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvtilva7383" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruvtilva73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvtilva7383" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-tilva-%f0%9f%92%ab-205003218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-tilva-%f0%9f%92%ab-205003218" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19674674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19674674" height="30" width="40" /></a>
-<a href="https://instagram.com/ꭰհɾմѵ ͳìӏѵą💫" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ꭰհɾմѵ ͳìӏѵą💫" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.perfect7383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ꭰհɾմѵ ͳìӏѵą💫" height="30" width="40" /></a>
 <a href="https://medium.com/@dhruvtilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhruvtilva" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvtilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvtilva" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvtilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvtilva" height="30" width="40" /></a>
