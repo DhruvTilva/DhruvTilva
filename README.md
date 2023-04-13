@@ -1,4 +1,4 @@
-![logo](https://github.com/DhruvTilva/DhruvTilva/blob/main/cover.jpg)
+![logo](https://github.com/DhruvTilva/DhruvTilva/blob/main/mygit.jpg)
 <h1 align="center">Hi 👋, I'm Dhruv Tilva</h1>
 <h3 align="center">A Enthusiastic and ambitious about Block-Chain Concept & A passionate about Back-end side..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
