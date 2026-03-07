@@ -81,14 +81,12 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvtilva&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvTilva&show_icons=true&theme=tokyonight&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvtilva&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DhruvTilva&layout=compact&theme=tokyonight" />
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvtilva&theme=tokyonight"/>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhruvTilva&border_radius=5.4)](https://git.io/streak-stats)
 </p>
