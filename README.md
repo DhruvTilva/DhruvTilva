@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Machine Learning, Generative AI, and Backend Architecture**
 
 - 👨‍💻 All of my projects are available at
-- 
+   
 - 💬 Always happy to talk about **AI, LLMs, and intelligent backend architectures**
 
 - 📫 How to reach me **tilvadhruv8@gmail.com**
@@ -71,6 +71,9 @@
 <a href="https://www.linux.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
+<a href="https://cdnlogo.com/logo/openai_134722.html"><img src="https://static.cdnlogo.com/logos/o/61/openai.svg"></a>
+<a href="https://cdnlogo.com/logo/google-gemini_142071.html"><img src="https://static.cdnlogo.com/logos/g/15/google-gemini_800.png"></a>
+<a href="https://cdnlogo.com/logo/claude-ai_140297.html"><img src="https://static.cdnlogo.com/logos/c/66/claude-ai_800.png"></a>
 
 </p>
 
