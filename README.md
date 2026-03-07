@@ -71,9 +71,10 @@
 <a href="https://www.linux.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
-<a href="https://cdnlogo.com/logo/openai_134722.html"><img src="https://static.cdnlogo.com/logos/o/61/openai.svg"  width="40" height="40"></a>
 <a href="https://cdnlogo.com/logo/google-gemini_142071.html"><img src="https://static.cdnlogo.com/logos/g/15/google-gemini_800.png"  width="40" height="40"></a>
 <a href="https://cdnlogo.com/logo/claude-ai_140297.html"><img src="https://static.cdnlogo.com/logos/c/66/claude-ai_800.png"  width="40" height="40"></a>
+<a href="https://cdnlogo.com/logo/openai_56744.html"><img src="https://static.cdnlogo.com/logos/o/31/openai.svg"  width="40" height="40"></a>
+
 
 </p>
 
