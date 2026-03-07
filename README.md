@@ -91,13 +91,12 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhruvTilva&theme=default" />
 </p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvTilva&theme=default" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DhruvTilva&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhruvTilva&theme=default" />
+
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DhruvTilva&border_radius=5.4" alt="GitHub Streak" /></a></p>
