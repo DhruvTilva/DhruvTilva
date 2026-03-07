@@ -75,18 +75,29 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cardmanagmD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/cardmanagmD"/></a></p><br><br>
+<p>
+<a href="https://paypal.me/dhruvTilva159">
+<img src="https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
+<a href="https://github.com/sponsors/DhruvTilva">
+<img src="https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-<h3 align="left">GitHub Analytics:</h3>
+<h3 align="left">Analytics:</h3>
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DhruvTilva&show_icons=true&theme=tokyonight&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DhruvTilva&layout=compact&theme=tokyonight" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvTilva&theme=default" />
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhruvTilva&border_radius=5.4)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhruvTilva&theme=default" />
 </p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvTilva&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DhruvTilva&theme=default" />
+</p>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DhruvTilva&border_radius=5.4" alt="GitHub Streak" /></a></p>
