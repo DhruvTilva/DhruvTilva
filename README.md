@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Generative AI, and Backend Architecture**
 
-- 👨‍💻 All of my projects are available at
-   
 - 💬 Always happy to talk about **AI, LLMs, and intelligent backend architectures**
 
 - 📫 How to reach me **tilvadhruv8@gmail.com**
