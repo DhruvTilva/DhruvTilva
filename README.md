@@ -18,17 +18,17 @@
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
 <p class="tech-news" style="max-width: 500px;">
-📰 <b>Tech News:</b> <!--NEWS_TITLE--><br>
-🔗 <a href="<!--NEWS_LINK-->" target="_blank">Read more</a>
+📰 <b>Tech News:</b> AI news updating...<br>
+🔗 <a href="#" target="_blank">Read more</a>
 </p>
 
 <p class="ai-pulse" style="max-width: 500px;">
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->
+🤖 <b>AI Pulse:</b> Claude improving reasoning
 </p>
 
 <p class="repo" style="max-width: 500px;">
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME--> • <!--TREND_REPO_STARS--> ⭐ today<br>
-🔗 <a href="<!--TREND_REPO_LINK-->" target="_blank">Repo link</a>
+🔥 <b>Trending Repo Today:</b> AI tools • 0 ⭐ today<br>
+🔗 <a href="#" target="_blank">Repo link</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
