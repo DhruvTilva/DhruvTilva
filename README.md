@@ -15,8 +15,7 @@
 
 - ⚡ Fun fact: I love exploring and experimenting with new technologies.
 
-<h3>⚡ Live Updates (Realtime Updated)</h3>
-
+> ### ⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/>
 <p>
 📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
 </p>
