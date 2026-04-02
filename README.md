@@ -18,7 +18,7 @@
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
 <p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Latest AI updates available
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
 </p>
 
 <p>
@@ -26,7 +26,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow &nbsp;⭐ <!--TREND_REPO_STARS-->0 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->openscreen &nbsp;⭐ <!--TREND_REPO_STARS-->2,496 stars today
 </p>
 
 
