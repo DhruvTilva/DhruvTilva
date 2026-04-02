@@ -18,16 +18,16 @@
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
 <p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 45 million for GPS ground system
-&nbsp;🔗 <a href="<!--NEWS_LINK-->https://spacenews.com">Read more</a>
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
+&nbsp;🔗 <a href="<!--NEWS_LINK-->https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/">Read more</a>
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow &nbsp;⭐ <!--TREND_REPO_STARS-->0
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow <!--TREND_REPO_STARS-->194436
 &nbsp;🔗 <a href="<!--TREND_REPO_LINK-->https://github.com/tensorflow/tensorflow">View Repo</a>
 </p>
 
