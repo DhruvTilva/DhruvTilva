@@ -1,5 +1,4 @@
 name: Daily Feed AI Update
-
 on:
   schedule:
     - cron: "0 18 * * *"
@@ -8,7 +7,6 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -18,15 +16,11 @@ jobs:
         id: news
         run: |
           RESPONSE=$(curl -s "https://api.spaceflightnewsapi.net/v4/articles/?limit=10")
-
           TITLE=$(echo $RESPONSE | jq -r '.results[0].title // "Latest AI updates available"')
           URL=$(echo $RESPONSE | jq -r '.results[0].url // "#"')
-
           TITLE=$(echo "$TITLE" | cut -c1-90)
-
           echo "title=$TITLE" >> $GITHUB_OUTPUT
           echo "url=$URL" >> $GITHUB_OUTPUT
-
 
       # ✅ AI PULSE
       - name: Generate AI Pulse
@@ -34,46 +28,72 @@ jobs:
         run: |
           EVENTS=("New OpenAI model launched" "Claude improving reasoning" "Gemini expanding capabilities" "LLMs evolving rapidly" "AI adoption growing fast")
           INDEX=$((RANDOM % ${#EVENTS[@]}))
-
           echo "line=${EVENTS[$INDEX]}" >> $GITHUB_OUTPUT
 
+      # ✅ TRENDING REPO (GitHub Trending page - today's stars)
+      - name: Install Python deps
+        run: pip install requests beautifulsoup4 -q
 
-      # ✅ TRENDING REPO
       - name: Fetch Trending Repo
         id: repo
         run: |
-          DATA=$(curl -s "https://api.github.com/search/repositories?q=machine+learning&sort=stars&order=desc")
+          python3 << 'EOF'
+          import requests
+          from bs4 import BeautifulSoup
+          import os
 
-          NAME=$(echo $DATA | jq -r '.items[0].name // "AI Repo"')
-          URL=$(echo $DATA | jq -r '.items[0].html_url // "#"')
-          STARS=$(echo $DATA | jq -r '.items[0].stargazers_count // "0"')
+          url = "https://github.com/trending?since=daily"
+          headers = {"User-Agent": "Mozilla/5.0"}
 
-          echo "name=$NAME" >> $GITHUB_OUTPUT
-          echo "url=$URL" >> $GITHUB_OUTPUT
-          echo "stars=$STARS" >> $GITHUB_OUTPUT
+          try:
+              res = requests.get(url, headers=headers, timeout=10)
+              soup = BeautifulSoup(res.text, "html.parser")
 
+              repo = soup.select("article.Box-row")[0]
 
-      # ✅ UPDATE README (FINAL FIXED)
+              # Repo name & link
+              name_tag = repo.select_one("h2 a")
+              full_name = name_tag["href"].strip("/")
+              repo_url = "https://github.com/" + full_name
+              repo_name = full_name.split("/")[-1]
+
+              # Today's stars gained
+              stars_tag = repo.select_one("span.d-inline-block.float-sm-right")
+              stars_text = stars_tag.get_text(strip=True) if stars_tag else "N/A"
+              stars_text = stars_text.replace("stars today", "").strip()
+
+          except Exception as e:
+              print(f"Error: {e}")
+              repo_name = "AI Repo"
+              repo_url = "https://github.com/trending"
+              stars_text = "N/A"
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"name={repo_name}\n")
+              f.write(f"url={repo_url}\n")
+              f.write(f"stars={stars_text}\n")
+          EOF
+
+      # ✅ UPDATE README
       - name: Update README
         run: |
-          # News title - replace only the text after the comment tag
+          # News title
           sed -i "s|<!--NEWS_TITLE-->[^<]*|<!--NEWS_TITLE-->${{ steps.news.outputs.title }}|g" README.md
-          
-          # News link - replace only the URL (up to the quote)
+
+          # News link
           sed -i 's|<!--NEWS_LINK-->[^"]*|<!--NEWS_LINK-->${{ steps.news.outputs.url }}|g' README.md
-          
-          # AI Pulse line
+
+          # AI Pulse
           sed -i "s|<!--AI_LINE-->[^<]*|<!--AI_LINE-->${{ steps.ai.outputs.line }}|g" README.md
-          
+
           # Trending repo name
-          sed -i "s|<!--TREND_REPO_NAME-->[^<]*|<!--TREND_REPO_NAME-->${{ steps.repo.outputs.name }} |g" README.md
-          
+          sed -i "s|<!--TREND_REPO_NAME-->[^&]*|<!--TREND_REPO_NAME-->${{ steps.repo.outputs.name }} |g" README.md
+
           # Trending repo stars
-          sed -i "s|<!--TREND_REPO_STARS-->[^<]*|<!--TREND_REPO_STARS-->${{ steps.repo.outputs.stars }}|g" README.md
-          
+          sed -i "s|<!--TREND_REPO_STARS-->[^s]*stars today|<!--TREND_REPO_STARS-->${{ steps.repo.outputs.stars }} stars today|g" README.md
+
           # Trending repo link
           sed -i 's|<!--TREND_REPO_LINK-->[^"]*|<!--TREND_REPO_LINK-->${{ steps.repo.outputs.url }}|g' README.md
-
 
       # ✅ COMMIT
       - name: Commit changes
@@ -81,5 +101,5 @@ jobs:
           git config --global user.name "DhruvTilva"
           git config --global user.email "tilvadhruv8@gmail.com"
           git add README.md
-          git commit -m "update: AI live feed (stable)" || echo "No changes"
+          git commit -m "update: AI live feed $(date +'%Y-%m-%d')" || echo "No changes"
           git push
