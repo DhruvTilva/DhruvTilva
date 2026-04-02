@@ -15,20 +15,21 @@
 
 - ⚡ Fun fact: I love exploring and experimenting with new technologies.
 
+
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
 <p style="max-width: 500px;">
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
-🔗 <a href="#" target="_blank" id="news-link">Read more</a>
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Loading...<br>
+🔗 <a href="<!--NEWS_LINK-->" target="_blank">Read more</a>
 </p>
 
 <p style="max-width: 500px;">
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Loading...
 </p>
 
 <p style="max-width: 500px;">
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow
-🔗 <a href="#" target="_blank" id="repo-link">Repo link</a>
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Loading... • <!--TREND_REPO_STARS-->0 ⭐ today<br>
+🔗 <a href="<!--TREND_REPO_LINK-->" target="_blank">Repo link</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
