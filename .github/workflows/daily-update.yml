@@ -13,69 +13,63 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      # ✅ AI NEWS
       - name: Fetch AI News
         id: news
         run: |
-          RESPONSE=$(curl -s --fail "https://api.spaceflightnewsapi.net/v4/articles/?limit=20" || echo "")
+          RESPONSE=$(curl -s "https://api.spaceflightnewsapi.net/v4/articles/?limit=10")
 
-          TITLE="Latest AI updates coming in..."
-          URL="#"
+          TITLE=$(echo $RESPONSE | jq -r '.results[0].title // "Latest AI updates available"')
+          URL=$(echo $RESPONSE | jq -r '.results[0].url // "#"')
 
-          if [ -n "$RESPONSE" ]; then
-            for i in {0..9}; do
-              T=$(echo $RESPONSE | jq -r ".results[$i].title // empty")
-              U=$(echo $RESPONSE | jq -r ".results[$i].url // empty")
-
-              if echo "$T" | grep -Ei "AI|model|OpenAI|LLM|neural|machine"; then
-                TITLE=$(echo "$T" | cut -c1-90)
-                URL=$U
-                break
-              fi
-            done
-          fi
+          TITLE=$(echo "$TITLE" | cut -c1-90)
 
           echo "title=$TITLE" >> $GITHUB_OUTPUT
           echo "url=$URL" >> $GITHUB_OUTPUT
 
 
+      # ✅ AI PULSE
       - name: Generate AI Pulse
         id: ai
         run: |
           EVENTS=("New OpenAI model launched" "Claude improving reasoning" "Gemini expanding capabilities" "LLMs evolving rapidly" "AI adoption growing fast")
-          T1=$((RANDOM % ${#EVENTS[@]}))
+          INDEX=$((RANDOM % ${#EVENTS[@]}))
 
-          echo "line=${EVENTS[$T1]}" >> $GITHUB_OUTPUT
+          echo "line=${EVENTS[$INDEX]}" >> $GITHUB_OUTPUT
 
 
+      # ✅ TRENDING REPO (REAL + RELIABLE)
       - name: Fetch Trending Repo
         id: repo
         run: |
-          DATA=$(curl -s https://api.github.com/search/repositories?q=stars:>10000&sort=stars&order=desc)
-      
-          NAME=$(echo $DATA | jq -r '.items[0].name // "No repo"')
-          URL=$(echo $DATA | jq -r '.items[0].html_url // "#"')
-          STARS=$(echo $DATA | jq -r '.items[0].stargazers_count // "0"')
-      
+          DATA=$(curl -s "https://api.github.com/search/repositories?q=machine+learning&sort=stars&order=desc")
+
+          NAME=$(echo $DATA | jq -r '.items[0].name')
+          URL=$(echo $DATA | jq -r '.items[0].html_url')
+          STARS=$(echo $DATA | jq -r '.items[0].stargazers_count')
+
           echo "name=$NAME" >> $GITHUB_OUTPUT
           echo "url=$URL" >> $GITHUB_OUTPUT
           echo "stars=$STARS" >> $GITHUB_OUTPUT
 
 
+      # ✅ SAFE UPDATE (PLACEHOLDER NEVER REMOVED)
       - name: Update README
         run: |
-          sed -i "s|<!--NEWS_TITLE-->|${{ steps.news.outputs.title }}|" README.md
-          sed -i "s|<!--NEWS_LINK-->|${{ steps.news.outputs.url }}|" README.md
-          sed -i "s|<!--AI_LINE-->|${{ steps.ai.outputs.line }}|" README.md
-      
-          sed -i "s|<!--TREND_REPO_NAME-->|${{ steps.repo.outputs.name }}|" README.md
-          sed -i "s|<!--TREND_REPO_LINK-->|${{ steps.repo.outputs.url }}|" README.md
-          sed -i "s|<!--TREND_REPO_STARS-->|${{ steps.repo.outputs.stars }}|" README.md
+          sed -i "s|<!--NEWS_TITLE-->.*|<!--NEWS_TITLE-->${{ steps.news.outputs.title }}|" README.md
+          sed -i "s|<!--NEWS_LINK-->.*|<!--NEWS_LINK-->${{ steps.news.outputs.url }}|" README.md
+          sed -i "s|<!--AI_LINE-->.*|<!--AI_LINE-->${{ steps.ai.outputs.line }}|" README.md
+
+          sed -i "s|<!--TREND_REPO_NAME-->.*|<!--TREND_REPO_NAME-->${{ steps.repo.outputs.name }}|" README.md
+          sed -i "s|<!--TREND_REPO_LINK-->.*|<!--TREND_REPO_LINK-->${{ steps.repo.outputs.url }}|" README.md
+          sed -i "s|<!--TREND_REPO_STARS-->.*|<!--TREND_REPO_STARS-->${{ steps.repo.outputs.stars }}|" README.md
 
 
+      # ✅ COMMIT
       - name: Commit changes
         run: |
           git config --global user.name "DhruvTilva"
           git config --global user.email "tilvadhruv8@gmail.com"
           git add README.md
-          git commit -m "update: AI news + pulse + trending repo" || echo "No changes"
+          git commit -m "update: AI live feed (stable)" || echo "No changes"
           git push
