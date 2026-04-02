@@ -63,13 +63,13 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s|<!--NEWS_TITLE-->.*|${{ steps.news.outputs.title }}|" README.md
-          sed -i "s|<!--NEWS_LINK-->.*|${{ steps.news.outputs.url }}|" README.md
-          sed -i "s|<!--AI_LINE-->.*|${{ steps.ai.outputs.line }}|" README.md
-
-          sed -i "s|<!--TREND_REPO_NAME-->.*|${{ steps.repo.outputs.name }}|" README.md
-          sed -i "s|<!--TREND_REPO_LINK-->.*|${{ steps.repo.outputs.url }}|" README.md
-          sed -i "s|<!--TREND_REPO_STARS-->.*|${{ steps.repo.outputs.stars }}|" README.md
+          sed -i "s|<!--NEWS_TITLE-->|${{ steps.news.outputs.title }}|" README.md
+          sed -i "s|<!--NEWS_LINK-->|${{ steps.news.outputs.url }}|" README.md
+          sed -i "s|<!--AI_LINE-->|${{ steps.ai.outputs.line }}|" README.md
+      
+          sed -i "s|<!--TREND_REPO_NAME-->|${{ steps.repo.outputs.name }}|" README.md
+          sed -i "s|<!--TREND_REPO_LINK-->|${{ steps.repo.outputs.url }}|" README.md
+          sed -i "s|<!--TREND_REPO_STARS-->|${{ steps.repo.outputs.stars }}|" README.md
 
 
       - name: Commit changes
