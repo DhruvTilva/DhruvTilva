@@ -16,18 +16,18 @@
 - ⚡ Fun fact: I love exploring and experimenting with new technologies.
 
 <h3>⚡ Live Updates (Realtime Updated)</h3>
-
-<p style="max-width: 500px;">
-📰 <b>Tech News:</b> Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
-🔗 <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/
+<p class="tech-news" style="max-width: 500px;">
+📰 <b>Tech News:</b> <!--NEWS_TITLE--><br>
+🔗 <a href="<!--NEWS_LINK-->" target="_blank">Read more</a>
+</p>
+<p class="ai-pulse" style="max-width: 500px;">
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->
+</p>
+<p class="repo" style="max-width: 500px;">
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME--> • <!--TREND_REPO_STARS--> ⭐ today<br>
+🔗 <a href="<!--TREND_REPO_LINK-->" target="_blank">Repo link</a>
 </p>
 
-<p style="max-width: 500px;">
-🤖 <b>AI Pulse:</b> HF trending: sentence-transformers/all-MiniLM-L6-v2
-</p>
-<p style="max-width: 500px;">
-🔥 <b>Trending Repo:</b> AI tools trending today 🚀
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/19674674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19674674" height="30" width="40" /></a>
