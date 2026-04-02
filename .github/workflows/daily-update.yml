@@ -18,7 +18,7 @@ jobs:
         run: |
           RESPONSE=$(curl -s --fail "https://api.spaceflightnewsapi.net/v4/articles/?limit=20" || echo "")
 
-          TITLE="AI news updating..."
+          TITLE="Latest AI updates coming in..."
           URL="#"
 
           if [ -n "$RESPONSE" ]; then
@@ -26,7 +26,7 @@ jobs:
               T=$(echo $RESPONSE | jq -r ".results[$i].title // empty")
               U=$(echo $RESPONSE | jq -r ".results[$i].url // empty")
 
-              if echo "$T" | grep -Ei "OpenAI|Gemini|Claude|Anthropic|Meta|DeepSeek|AI|LLM|Machine Learning"; then
+              if echo "$T" | grep -Ei "AI|model|OpenAI|LLM|neural|machine"; then
                 TITLE=$(echo "$T" | cut -c1-90)
                 URL=$U
                 break
@@ -50,12 +50,12 @@ jobs:
       - name: Fetch Trending Repo
         id: repo
         run: |
-          DATA=$(curl -s --fail "https://ghapi.huchen.dev/repositories?since=daily" || echo "[]")
-
-          NAME=$(echo $DATA | jq -r '.[0].name // "AI tools"')
-          URL=$(echo $DATA | jq -r '.[0].url // "#"')
-          STARS=$(echo $DATA | jq -r '.[0].stars // "0"')
-
+          DATA=$(curl -s https://api.github.com/search/repositories?q=stars:>10000&sort=stars&order=desc)
+      
+          NAME=$(echo $DATA | jq -r '.items[0].name // "No repo"')
+          URL=$(echo $DATA | jq -r '.items[0].html_url // "#"')
+          STARS=$(echo $DATA | jq -r '.items[0].stargazers_count // "0"')
+      
           echo "name=$NAME" >> $GITHUB_OUTPUT
           echo "url=$URL" >> $GITHUB_OUTPUT
           echo "stars=$STARS" >> $GITHUB_OUTPUT
