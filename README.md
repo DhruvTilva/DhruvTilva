@@ -15,14 +15,16 @@
 
 - ⚡ Fun fact: I love exploring and experimenting with new technologies.
 
+<h3>⚡ Live Updates (Realtime Updated)</h3>
 
-## ⚡ Live Updates (Realtime Updated)
-
-📰 Tech News: <!--NEWS_TITLE-->  
+<p style="max-width: 500px;">
+📰 <b>Tech News:</b> <!--NEWS_TITLE--><br>
 🔗 <a href="<!--NEWS_LINK-->" target="_blank">Read more →</a>
+</p>
 
-🤖 AI Pulse: <!--AI_LINE-->
-
+<p style="max-width: 500px;">
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/19674674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19674674" height="30" width="40" /></a>
