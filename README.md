@@ -26,7 +26,7 @@
 🤖 <b>AI Pulse:</b> <!--AI_LINE-->
 </p>
 <p style="max-width: 500px;">
-🔥 <b>Today's Repo:</b> <!--TREND_REPO-->
+🔥 <b>Trending Repo:</b> <!--TREND_REPO-->
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
