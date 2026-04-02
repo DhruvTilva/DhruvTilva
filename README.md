@@ -18,15 +18,15 @@
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
 <p style="max-width: 500px;">
-📰 <b>Tech News:</b> <!--NEWS_TITLE--><br>
-🔗 <a href="<!--NEWS_LINK-->" target="_blank">Read more →</a>
+📰 <b>Tech News:</b> Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
+🔗 <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/
 </p>
 
 <p style="max-width: 500px;">
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->
+🤖 <b>AI Pulse:</b> HF trending: sentence-transformers/all-MiniLM-L6-v2
 </p>
 <p style="max-width: 500px;">
-🔥 <b>Trending Repo:</b> <!--TREND_REPO-->
+🔥 <b>Trending Repo:</b> AI tools trending today 🚀
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
