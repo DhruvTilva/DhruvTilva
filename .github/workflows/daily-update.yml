@@ -1,8 +1,8 @@
-name: Daily AI Update
+name: Daily Feed AI Update
 
 on:
   schedule:
-    - cron: "0 18 * * *"  
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,8 +18,8 @@ jobs:
         run: |
           RESPONSE=$(curl -s --fail "https://api.spaceflightnewsapi.net/v4/articles/?limit=20" || echo "")
 
-          TITLE=""
-          URL=""
+          TITLE="AI news updating..."
+          URL="#"
 
           if [ -n "$RESPONSE" ]; then
             for i in {0..9}; do
@@ -32,14 +32,6 @@ jobs:
                 break
               fi
             done
-
-            if [ -z "$TITLE" ]; then
-              TITLE=$(echo $RESPONSE | jq -r '.results[0].title // "AI news updating..."' | cut -c1-90)
-              URL=$(echo $RESPONSE | jq -r '.results[0].url // "#"')
-            fi
-          else
-            TITLE="AI news updating..."
-            URL="#"
           fi
 
           echo "title=$TITLE" >> $GITHUB_OUTPUT
@@ -49,29 +41,10 @@ jobs:
       - name: Generate AI Pulse
         id: ai
         run: |
-          TYPE=$((RANDOM % 2))
+          EVENTS=("New OpenAI model launched" "Claude improving reasoning" "Gemini expanding capabilities" "LLMs evolving rapidly" "AI adoption growing fast")
+          T1=$((RANDOM % ${#EVENTS[@]}))
 
-          if [ $TYPE -eq 0 ]; then
-            DATA=$(curl -s --fail "https://ghapi.huchen.dev/repositories?since=daily" || echo "[]")
-
-            NAME=$(echo $DATA | jq -r '.[0].name // empty')
-            STARS=$(echo $DATA | jq -r '.[0].stars // empty')
-
-            if [ -n "$NAME" ]; then
-              echo "line=$NAME trending • $STARS⭐ today" >> $GITHUB_OUTPUT
-            else
-              echo "line=AI ecosystem evolving fast • Stay updated" >> $GITHUB_OUTPUT
-            fi
-
-          else
-            MODEL=$(curl -s --fail "https://huggingface.co/api/models?sort=downloads" | jq -r '.[0].modelId // empty')
-
-            if [ -n "$MODEL" ]; then
-              echo "line=HF trending: $MODEL" >> $GITHUB_OUTPUT
-            else
-              echo "line=New AI models emerging daily" >> $GITHUB_OUTPUT
-            fi
-          fi
+          echo "line=${EVENTS[$T1]}" >> $GITHUB_OUTPUT
 
 
       - name: Fetch Trending Repo
@@ -79,15 +52,13 @@ jobs:
         run: |
           DATA=$(curl -s --fail "https://ghapi.huchen.dev/repositories?since=daily" || echo "[]")
 
-          NAME=$(echo $DATA | jq -r '.[0].name // empty')
-          URL=$(echo $DATA | jq -r '.[0].url // empty')
-          STARS=$(echo $DATA | jq -r '.[0].stars // empty')
+          NAME=$(echo $DATA | jq -r '.[0].name // "AI tools"')
+          URL=$(echo $DATA | jq -r '.[0].url // "#"')
+          STARS=$(echo $DATA | jq -r '.[0].stars // "0"')
 
-          if [ -n "$NAME" ]; then
-            echo "repo=<a href=\"$URL\" target=\"_blank\">$NAME</a> • $STARS⭐" >> $GITHUB_OUTPUT
-          else
-            echo "repo=AI tools trending today 🚀" >> $GITHUB_OUTPUT
-          fi
+          echo "name=$NAME" >> $GITHUB_OUTPUT
+          echo "url=$URL" >> $GITHUB_OUTPUT
+          echo "stars=$STARS" >> $GITHUB_OUTPUT
 
 
       - name: Update README
@@ -95,7 +66,10 @@ jobs:
           sed -i "s|<!--NEWS_TITLE-->.*|${{ steps.news.outputs.title }}|" README.md
           sed -i "s|<!--NEWS_LINK-->.*|${{ steps.news.outputs.url }}|" README.md
           sed -i "s|<!--AI_LINE-->.*|${{ steps.ai.outputs.line }}|" README.md
-          sed -i "s|<!--TREND_REPO-->.*|${{ steps.repo.outputs.repo }}|" README.md
+
+          sed -i "s|<!--TREND_REPO_NAME-->.*|${{ steps.repo.outputs.name }}|" README.md
+          sed -i "s|<!--TREND_REPO_LINK-->.*|${{ steps.repo.outputs.url }}|" README.md
+          sed -i "s|<!--TREND_REPO_STARS-->.*|${{ steps.repo.outputs.stars }}|" README.md
 
 
       - name: Commit changes
@@ -103,5 +77,5 @@ jobs:
           git config --global user.name "DhruvTilva"
           git config --global user.email "tilvadhruv8@gmail.com"
           git add README.md
-          git commit -m "update: AI news, pulse & trending repo" || echo "No changes"
+          git commit -m "update: AI news + pulse + trending repo" || echo "No changes"
           git push
