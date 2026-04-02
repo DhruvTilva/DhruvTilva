@@ -18,17 +18,17 @@
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
 <p style="max-width: 500px;">
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Loading...<br>
-🔗 <a href="<!--NEWS_LINK-->#" target="_blank">Read more</a>
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
+🔗 <a href="<!--NEWS_LINK-->https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/
 </p>
 
 <p style="max-width: 500px;">
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Loading...
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p style="max-width: 500px;">
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Loading... • <!--TREND_REPO_STARS-->0 ⭐ today<br>
-🔗 <a href="<!--TREND_REPO_LINK-->#" target="_blank">Repo link</a>
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow
+🔗 <a href="<!--TREND_REPO_LINK-->https://github.com/tensorflow/tensorflow
 </p>
 
 <h3 align="left">Connect with me:</h3>
