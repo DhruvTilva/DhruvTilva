@@ -1,0 +1,90 @@
+name: Daily AI Update
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily IST ~11:30 PM
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 🔹 Fetch AI News (Filtered)
+      - name: Fetch Filtered AI News
+        id: news
+        run: |
+          RESPONSE=$(curl -s "https://api.spaceflightnewsapi.net/v4/articles/?limit=20")
+
+          TITLE=""
+          URL=""
+
+          for i in {0..9}; do
+            T=$(echo $RESPONSE | jq -r ".results[$i].title")
+            U=$(echo $RESPONSE | jq -r ".results[$i].url")
+
+            if echo "$T" | grep -Ei "OpenAI|Gemini|Claude|Anthropic|Meta|DeepSeek|AI|LLM|Machine Learning"; then
+              TITLE=$(echo "$T" | cut -c1-90)
+              URL=$U
+              break
+            fi
+          done
+
+          if [ -z "$TITLE" ]; then
+            TITLE=$(echo $RESPONSE | jq -r '.results[0].title' | cut -c1-90)
+            URL=$(echo $RESPONSE | jq -r '.results[0].url')
+          fi
+
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+          echo "url=$URL" >> $GITHUB_OUTPUT
+
+
+      # 🔹 Real AI Pulse (GitHub OR HuggingFace)
+      - name: Generate AI Pulse (Real)
+        id: ai
+        run: |
+          TYPE=$((RANDOM % 2))
+
+          if [ $TYPE -eq 0 ]; then
+            DATA=$(curl -s "https://ghapi.huchen.dev/repositories?since=daily")
+            NAME=$(echo $DATA | jq -r '.[0].name')
+            STARS=$(echo $DATA | jq -r '.[0].stars')
+            echo "line=$NAME trending • $STARS⭐ today" >> $GITHUB_OUTPUT
+          else
+            MODEL=$(curl -s "https://huggingface.co/api/models?sort=downloads" | jq -r '.[0].modelId')
+            echo "line=HF trending: $MODEL" >> $GITHUB_OUTPUT
+          fi
+
+
+      # 🔹 Trending Repo (Separate Clean Line)
+      - name: Fetch Trending Repo
+        id: repo
+        run: |
+          DATA=$(curl -s "https://ghapi.huchen.dev/repositories?since=daily")
+          NAME=$(echo $DATA | jq -r '.[0].name')
+          URL=$(echo $DATA | jq -r '.[0].url')
+          STARS=$(echo $DATA | jq -r '.[0].stars')
+
+          echo "repo=<a href=\"$URL\" target=\"_blank\">$NAME</a> • $STARS⭐" >> $GITHUB_OUTPUT
+
+
+      # 🔹 Update README
+      - name: Update README
+        run: |
+          sed -i "s|<!--NEWS_TITLE-->.*|${{ steps.news.outputs.title }}|" README.md
+          sed -i "s|<!--NEWS_LINK-->.*|${{ steps.news.outputs.url }}|" README.md
+          sed -i "s|<!--AI_LINE-->.*|${{ steps.ai.outputs.line }}|" README.md
+          sed -i "s|<!--TREND_REPO-->.*|${{ steps.repo.outputs.repo }}|" README.md
+
+
+      # 🔹 Commit Changes
+      - name: Commit changes
+        run: |
+          git config --global user.name "DhruvTilva"
+          git config --global user.email "tilvadhruv8@gmail.com"
+          git add README.md
+          git commit -m "update: AI news, pulse & trending repo" || echo "No changes"
+          git push
