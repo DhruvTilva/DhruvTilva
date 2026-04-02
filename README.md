@@ -6,17 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvtilva&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvtilva" /> </p>
 
 
-
 - 🌱 I’m currently learning **Machine Learning, Generative AI, and Backend Architecture**
 
 - 💬 Always happy to talk about **AI, LLMs, and intelligent backend architectures**
 
 - 📫 How to reach me **tilvadhruv8@gmail.com**
 
-- ⚡ Fun fact: I love exploring and experimenting with new technologies.
+<br>
 
-> ### ⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/>
-<p>
+<h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
 📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
 </p>
 
@@ -27,6 +25,7 @@
 <p>
 🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->openscreen &nbsp;⭐ <!--TREND_REPO_STARS-->2,496 stars today
 </p>
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
