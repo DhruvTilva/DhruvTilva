@@ -15,22 +15,22 @@
 
 - ⚡ Fun fact: I love exploring and experimenting with new technologies.
 
-
 <h3>⚡ Live Updates (Realtime Updated)</h3>
 
-<p style="max-width: 500px;">
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 5 million for GPS ground system as program future is reassessed
-🔗 <a href="<!--NEWS_LINK-->https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/
+<p>
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Pentagon awards Raytheon 45 million for GPS ground system
+&nbsp;🔗 <a href="<!--NEWS_LINK-->https://spacenews.com">Read more</a>
 </p>
 
-<p style="max-width: 500px;">
+<p>
 🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
-<p style="max-width: 500px;">
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow
-🔗 <a href="<!--TREND_REPO_LINK-->https://github.com/tensorflow/tensorflow
+<p>
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->tensorflow &nbsp;⭐ <!--TREND_REPO_STARS-->0
+&nbsp;🔗 <a href="<!--TREND_REPO_LINK-->https://github.com/tensorflow/tensorflow">View Repo</a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
