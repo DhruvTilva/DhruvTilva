@@ -15,15 +15,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Meet NASA’s New Artemis II Science Officers
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Space Force budget would more than double in Trump’s .5 trillion defense plan
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->oh-my-codex &nbsp;⭐ <!--TREND_REPO_STARS-->2,984 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->mlx-vlm &nbsp;⭐ <!--TREND_REPO_STARS-->316 stars today
 </p>
 <br>
 
