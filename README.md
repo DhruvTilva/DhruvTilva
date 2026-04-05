@@ -15,15 +15,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Space Force budget would more than double in Trump’s .5 trillion defense plan
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Thinking of You, Earth
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->mlx-vlm &nbsp;⭐ <!--TREND_REPO_STARS-->316 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->gallery &nbsp;⭐ <!--TREND_REPO_STARS-->495 stars today
 </p>
 <br>
 
