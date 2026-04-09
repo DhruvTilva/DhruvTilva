@@ -15,7 +15,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Twin NASA Control Rooms Support Artemis Safety, Success
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->PLD Space secures 5 million European Investment Bank loan for MIURA 5 launcher
 </p>
 
 <p>
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->andrej-karpathy-skills &nbsp;⭐ <!--TREND_REPO_STARS-->686 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->hermes-agent &nbsp;⭐ <!--TREND_REPO_STARS-->6,788 stars today
 </p>
 <br>
 
