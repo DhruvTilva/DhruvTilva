@@ -10,7 +10,19 @@
 
 - 💬 Always happy to talk about **AI, LLMs, and intelligent backend architectures**
 
-- 📫 How to reach me **tilvadhruv8@gmail.com**
+<p align="center">
+  📫 <b>How To Reach Me — DMs open on X</b><br/><br/>
+  
+  <a href="https://x.com/DhruvTilva73" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=1800&color=1DA1F2&center=true&vCenter=true&width=400&lines=💬+DM+me+on+X;Let’s+collaborate;Always+open+🚀" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://x.com/DhruvTilva73" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK%20TO%20DM-black?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
