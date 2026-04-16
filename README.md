@@ -47,57 +47,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-<a href="https://cdnlogo.com/logo/google-gemini_142071.html"><img src="https://static.cdnlogo.com/logos/g/15/google-gemini_800.png"  width="40" height="40"></a>
-<a href="https://cdnlogo.com/logo/claude-ai_140297.html"><img src="https://static.cdnlogo.com/logos/c/66/claude-ai_800.png"  width="40" height="40"></a>
-<a href="https://cdnlogo.com/logo/openai_56744.html"><img src="https://static.cdnlogo.com/logos/o/31/openai.svg"  width="40" height="40"></a>
-
-
-</p>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></td>
+<td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+<td><img src="https://static.cdnlogo.com/logos/g/15/google-gemini_800.png" width="40"/></td>
+<td><img src="https://static.cdnlogo.com/logos/c/66/claude-ai_800.png" width="40"/></td>
+<td><img src="https://static.cdnlogo.com/logos/o/31/openai.svg" width="40"/></td>
+</tr>
+</table>
 
 <h3 align="left">Support:</h3>
 <p>
