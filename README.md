@@ -27,7 +27,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->What’s Happening in Space Policy April 26-May 2, 2026
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->skills &nbsp;⭐ <!--TREND_REPO_STARS-->2,507 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->skills &nbsp;⭐ <!--TREND_REPO_STARS-->5,551 stars today
 </p>
 <br>
 
