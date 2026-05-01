@@ -27,7 +27,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Artemis III Moon Rocket Core Stage on the Move
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Kennedy Center Director Announces Plans to Retire
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->warp &nbsp;⭐ <!--TREND_REPO_STARS-->8,262 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->TradingAgents &nbsp;⭐ <!--TREND_REPO_STARS-->2,115 stars today
 </p>
 <br>
 
