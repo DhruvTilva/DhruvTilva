@@ -27,15 +27,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Launch Preview: three launches — a calm before the storm?
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->ruflo &nbsp;⭐ <!--TREND_REPO_STARS-->1,834 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->ruflo &nbsp;⭐ <!--TREND_REPO_STARS-->2,594 stars today
 </p>
 <br>
 
