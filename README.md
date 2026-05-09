@@ -27,7 +27,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->I Am Artemis: Anton Kiriwas
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Rescue mission for NASA’s 00 million space telescope passes key testing milestone
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->financial-services &nbsp;⭐ <!--TREND_REPO_STARS-->3,662 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->financial-services &nbsp;⭐ <!--TREND_REPO_STARS-->3,077 stars today
 </p>
 <br>
 
