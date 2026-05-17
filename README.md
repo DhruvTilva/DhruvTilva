@@ -27,7 +27,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Artemis III deep into processing and planning for key HLS test
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->bun &nbsp;⭐ <!--TREND_REPO_STARS-->414 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->openhuman &nbsp;⭐ <!--TREND_REPO_STARS-->1,694 stars today
 </p>
 <br>
 
