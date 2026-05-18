@@ -27,15 +27,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Artemis III deep into processing and planning for key HLS test
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Super Heavy Block 3 the Booster of the Future
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->openhuman &nbsp;⭐ <!--TREND_REPO_STARS-->1,694 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->openhuman &nbsp;⭐ <!--TREND_REPO_STARS-->3,945 stars today
 </p>
 <br>
 
