@@ -27,15 +27,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Moon-Venus Conjunction
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->La NASA informará sobre su estrategia y misiones para la Base Lunar
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->New OpenAI model launched
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->openhuman &nbsp;⭐ <!--TREND_REPO_STARS-->3,991 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->codegraph &nbsp;⭐ <!--TREND_REPO_STARS-->1,910 stars today
 </p>
 <br>
 
