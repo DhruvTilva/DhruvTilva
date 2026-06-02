@@ -10,17 +10,10 @@
 
 - 💬 Always happy to talk about **AI, LLMs, and intelligent backend architectures**
 
-<p align="center">
-  📫 <b>How To Reach Me — DMs open on X</b><br/><br/>
-  
-  <a href="https://x.com/DhruvTilva73" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=1800&color=1DA1F2&center=true&vCenter=true&width=400&lines=💬+DM+me+on+X;Let’s+collaborate;Always+open+🚀" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://x.com/DhruvTilva73" target="_blank">
-    <img src="https://img.shields.io/badge/CLICK%20TO%20DM-black?style=for-the-badge&logo=twitter&logoColor=white" />
+<p align="left">
+  📧 <b>Let's Connect</b><br/><br/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tilvadhruv8@gmail.com&su=AI%2FML%20Opportunity" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
