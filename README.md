@@ -24,11 +24,11 @@
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->New OpenAI model launched
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->hermes-agent &nbsp;⭐ <!--TREND_REPO_STARS-->1,821 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->last30days-skill &nbsp;⭐ <!--TREND_REPO_STARS-->441 stars today
 </p>
 <br>
 
