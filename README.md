@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Artemis III Crew Announced
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->last30days-skill &nbsp;⭐ <!--TREND_REPO_STARS-->3,558 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->last30days-skill &nbsp;⭐ <!--TREND_REPO_STARS-->3,177 stars today
 </p>
 <br>
 
