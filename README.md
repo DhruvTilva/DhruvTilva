@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->EQT to acquire Exolaunch
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Prepares Next Artemis Rocket for Flight
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->timesfm &nbsp;⭐ <!--TREND_REPO_STARS-->858 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->codebase-memory-mcp &nbsp;⭐ <!--TREND_REPO_STARS-->1,055 stars today
 </p>
 <br>
 
