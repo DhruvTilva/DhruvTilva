@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Prepares Next Artemis Rocket for Flight
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->codebase-memory-mcp &nbsp;⭐ <!--TREND_REPO_STARS-->1,055 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->palmier-pro &nbsp;⭐ <!--TREND_REPO_STARS-->904 stars today
 </p>
 <br>
 
