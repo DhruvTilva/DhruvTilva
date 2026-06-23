@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Invites Media to Botswana Artemis Accords Signing Ceremony
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Commercial Space Federation (CSF) Welcomes New Associate Member
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->New OpenAI model launched
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenMontage &nbsp;⭐ <!--TREND_REPO_STARS-->2,935 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenMontage &nbsp;⭐ <!--TREND_REPO_STARS-->3,590 stars today
 </p>
 <br>
 
