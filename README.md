@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->ASAP Worries About ISS, GAO Wonders What Comes Next
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenMontage &nbsp;⭐ <!--TREND_REPO_STARS-->3,703 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->design.md &nbsp;⭐ <!--TREND_REPO_STARS-->1,407 stars today
 </p>
 <br>
 
