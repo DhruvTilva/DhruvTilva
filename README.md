@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Roman Space Telescope Arrives at Space Coast
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunida
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->simplex-chat &nbsp;⭐ <!--TREND_REPO_STARS-->1,611 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->exercises-dataset &nbsp;⭐ <!--TREND_REPO_STARS-->1,413 stars today
 </p>
 <br>
 
