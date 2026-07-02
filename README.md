@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg 
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Isar Aerospace to launch German-built Planet imaging satellite
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->agency-agents &nbsp;⭐ <!--TREND_REPO_STARS-->2,097 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->strix &nbsp;⭐ <!--TREND_REPO_STARS-->2,167 stars today
 </p>
 <br>
 
