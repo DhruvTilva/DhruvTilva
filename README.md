@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Need a Lift? NASA Launches Swift Rescue Mission
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Airbus to build Aeolus-2 wind-monitoring satellite
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->codex-plugin-cc &nbsp;⭐ <!--TREND_REPO_STARS-->716 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->meetily &nbsp;⭐ <!--TREND_REPO_STARS-->1,409 stars today
 </p>
 <br>
 
