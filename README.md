@@ -11,7 +11,7 @@
 - 💬 Always happy to talk about **AI, LLMs, and intelligent backend architectures**
 
 <p align="left">
-  📧 <b>Let's Connect</b><br/><br/>
+  📧 <b>Let's Connect</b><br/>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tilvadhruv8@gmail.com&su=AI%2FML%20Opportunity" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -32,6 +32,36 @@
 </p>
 <br>
 
+
+## 🚀 Open Source Contributions
+
+
+### 🧠 Anthropic · [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- Improved contextual embedding generation by correcting preprocessing order in Anthropic's official embedding examples.
+- Enhanced retrieval quality by ensuring contextual information is prepended before embedding generation.
+
+> ⭐ **Antropic Official Repo.** • 👥 **[Total Contributors](https://github.com/anthropics/claude-cookbooks/graphs/contributors)** • ✅ **Merged PR on prod**
+
+---
+
+### 🕸️ Graphify · [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)  
+- Improved reliability of the LLM inference pipeline by enforcing consistent API timeout behavior.
+- Enhanced graph generation robustness through resilient configuration validation and error handling.
+
+> ⭐ **70k+ Repo.** • 👥 **[Total Contributors](https://github.com/Graphify-Labs/graphify/graphs/contributors)** • ✅ **Merged PR on prod**
+
+---
+
+### 🌊 SurfSense · [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+- Improved document preprocessing by making markdown conversion resilient to missing table metadata.
+- Increased embedding pipeline reliability through token-aware truncation for multilingual content.
+- Preserved source code fidelity during markdown transformation, improving retrieval quality for code-centric RAG workflows.
+
+> 🤖 **AI RAG Platform** • 👥 **[Total Contributors](https://github.com/MODSetter/SurfSense/graphs/contributors)** • 🔀 **3 Merged PRs on prod**
+
+<br>
+<br>
+<br>
 <p align="left">
 <a href="https://www.leetcode.com/dhruvtilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvtilva" height="30" width="40" /></a>
 </p>
@@ -58,7 +88,7 @@
 <td><img src="https://static.cdnlogo.com/logos/o/31/openai.svg" width="40"/></td>
 </tr>
 </table>
-
+<br>
 <h3 align="left">Support:</h3>
 <p>
 <a href="https://paypal.me/dhruvTilva159">
@@ -68,6 +98,9 @@
 <img src="https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
+
+<br>
+
 
 <h3 align="left">Analytics:</h3>
 
