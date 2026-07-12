@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Catch2 &nbsp;⭐ <!--TREND_REPO_STARS-->117 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->destructive_command_guard &nbsp;⭐ <!--TREND_REPO_STARS-->444 stars today
 </p>
 <br>
 
