@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Astronaut Anil Menon, Crewmates Arrive at Space Station
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenCut &nbsp;⭐ <!--TREND_REPO_STARS-->1,077 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->awesome-llm-apps &nbsp;⭐ <!--TREND_REPO_STARS-->1,104 stars today
 </p>
 <br>
 
