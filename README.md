@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Invites Media to Roman Space Telescope, Crew-13 Launches
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Mauritius becomes 70th nation to sign the Artemis Accords
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->build-your-own-x &nbsp;⭐ <!--TREND_REPO_STARS-->1,070 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->lingbot-map &nbsp;⭐ <!--TREND_REPO_STARS-->827 stars today
 </p>
 <br>
 
