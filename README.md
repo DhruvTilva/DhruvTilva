@@ -24,11 +24,11 @@
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->lingbot-map &nbsp;⭐ <!--TREND_REPO_STARS-->827 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->code-review-graph &nbsp;⭐ <!--TREND_REPO_STARS-->551 stars today
 </p>
 <br>
 
