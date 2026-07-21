@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->code-review-graph &nbsp;⭐ <!--TREND_REPO_STARS-->1,876 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->worldmonitor &nbsp;⭐ <!--TREND_REPO_STARS-->1,167 stars today
 </p>
 <br>
 
