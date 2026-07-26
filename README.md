@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Successful Flight for Starship IFT-13
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->What’s Happening in Space Policy July 26-August 1, 2026
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->buzz &nbsp;⭐ <!--TREND_REPO_STARS-->2,506 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->bitchat &nbsp;⭐ <!--TREND_REPO_STARS-->1,198 stars today
 </p>
 <br>
 
