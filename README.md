@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Astronaut Chris Williams to Discuss Space Station Mission
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Ship 40’s flawless flight promotes next mission catch potential
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->bitchat &nbsp;⭐ <!--TREND_REPO_STARS-->2,344 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->editor &nbsp;⭐ <!--TREND_REPO_STARS-->415 stars today
 </p>
 <br>
 
