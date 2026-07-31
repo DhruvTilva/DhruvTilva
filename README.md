@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->K2 Space raises 00 million for commercial, defense satellite expansion
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->speech-to-speech &nbsp;⭐ <!--TREND_REPO_STARS-->627 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->reverse-skill &nbsp;⭐ <!--TREND_REPO_STARS-->612 stars today
 </p>
 <br>
 
