@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->U.S. Air Force expands Blue Origin rocket cargo contract
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->AI-For-Beginners &nbsp;⭐ <!--TREND_REPO_STARS-->869 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->AI-For-Beginners &nbsp;⭐ <!--TREND_REPO_STARS-->2,617 stars today
 </p>
 <br>
 
