@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Blue Origin narrowing in on root cause of catastrophic rocket accident
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->FCC Space Bureau deputy takes the reins amid licensing overhaul
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->New OpenAI model launched
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->TencentDB-Agent-Memory &nbsp;⭐ <!--TREND_REPO_STARS-->1,053 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->prime-agent &nbsp;⭐ <!--TREND_REPO_STARS-->2,271 stars today
 </p>
 <br>
 
