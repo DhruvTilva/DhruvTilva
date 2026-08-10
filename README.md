@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Artemis progress building lunar return roadmap
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA+ Debuts on discovery+, Coming Soon to HBO Max
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->prime-agent &nbsp;⭐ <!--TREND_REPO_STARS-->2,319 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->semantica &nbsp;⭐ <!--TREND_REPO_STARS-->967 stars today
 </p>
 <br>
 
