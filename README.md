@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Ukraine strikes major Russian rocket factory with cruise missiles
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Firefly promote next block of Alpha amid Eclipse progress
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->cordis &nbsp;⭐ <!--TREND_REPO_STARS-->616 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->cordis &nbsp;⭐ <!--TREND_REPO_STARS-->719 stars today
 </p>
 <br>
 
