@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->ULA names Peller as new CEO
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->MoneyPrinterTurbo &nbsp;⭐ <!--TREND_REPO_STARS-->1,275 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->MoneyPrinterTurbo &nbsp;⭐ <!--TREND_REPO_STARS-->2,306 stars today
 </p>
 <br>
 
