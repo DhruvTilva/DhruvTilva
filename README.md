@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->CNES Seeks Partners to Mass-Produce Compact Optical Telescopes
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->modular &nbsp;⭐ <!--TREND_REPO_STARS-->905 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->codex &nbsp;⭐ <!--TREND_REPO_STARS-->4,159 stars today
 </p>
 <br>
 
