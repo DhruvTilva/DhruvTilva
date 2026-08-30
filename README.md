@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA’s Roman Space Telescope Go for Launch, Five Years of Discovery
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->archify &nbsp;⭐ <!--TREND_REPO_STARS-->3,927 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenMAIC &nbsp;⭐ <!--TREND_REPO_STARS-->1,625 stars today
 </p>
 <br>
 
