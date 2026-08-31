@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Welcomes Türkiye as Newest Artemis Accords Signatory
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->New OpenAI model launched
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenMAIC &nbsp;⭐ <!--TREND_REPO_STARS-->1,625 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->OpenMAIC &nbsp;⭐ <!--TREND_REPO_STARS-->2,819 stars today
 </p>
 <br>
 
