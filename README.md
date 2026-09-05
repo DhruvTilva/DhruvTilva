@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Isar Aerospace attempts launch of Spectrum rocket after months of delays
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->skills &nbsp;⭐ <!--TREND_REPO_STARS-->2,757 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->skills &nbsp;⭐ <!--TREND_REPO_STARS-->2,666 stars today
 </p>
 <br>
 
