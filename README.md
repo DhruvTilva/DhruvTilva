@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Superbubble in the Large Magellanic Cloud
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA’s Chandra Unveils Mysterious X-Ray Objects
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->i-have-adhd &nbsp;⭐ <!--TREND_REPO_STARS-->422 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->i-have-adhd &nbsp;⭐ <!--TREND_REPO_STARS-->4,624 stars today
 </p>
 <br>
 
