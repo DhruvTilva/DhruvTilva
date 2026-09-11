@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA’s Chandra Spots Galactic Gem
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->i-have-adhd &nbsp;⭐ <!--TREND_REPO_STARS-->3,854 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->i-have-adhd &nbsp;⭐ <!--TREND_REPO_STARS-->3,440 stars today
 </p>
 <br>
 
