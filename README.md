@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->New Crops, Health Research Proposals to Help NASA Advance Exploration
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->colibri &nbsp;⭐ <!--TREND_REPO_STARS-->960 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->colibri &nbsp;⭐ <!--TREND_REPO_STARS-->2,233 stars today
 </p>
 <br>
 
