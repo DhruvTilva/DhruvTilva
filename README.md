@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->open-code-review &nbsp;⭐ <!--TREND_REPO_STARS-->3,215 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->open-code-review &nbsp;⭐ <!--TREND_REPO_STARS-->3,290 stars today
 </p>
 <br>
 
