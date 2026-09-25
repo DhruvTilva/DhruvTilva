@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Unveils Winning Designs for Mars Space Food Systems Challenge
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->ai-engineering-from-scratch &nbsp;⭐ <!--TREND_REPO_STARS-->310 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->paperclip &nbsp;⭐ <!--TREND_REPO_STARS-->1,853 stars today
 </p>
 <br>
 
