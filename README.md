@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Next crew bound for the space station arrive in Florida
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->paperclip &nbsp;⭐ <!--TREND_REPO_STARS-->1,853 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->paperclip &nbsp;⭐ <!--TREND_REPO_STARS-->2,589 stars today
 </p>
 <br>
 
