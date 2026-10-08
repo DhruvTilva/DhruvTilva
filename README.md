@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Briefing to Highlight Contributions to Martian Moons Mission
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->4,666 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->AnyPS5 &nbsp;⭐ <!--TREND_REPO_STARS-->4,640 stars today
 </p>
 <br>
 
