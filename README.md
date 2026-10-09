@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Briefing to Highlight Contributions to Martian Moons Mission
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->SpaceX to make another attempt to launch 21 data satellites for Space Development Agency
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->AnyPS5 &nbsp;⭐ <!--TREND_REPO_STARS-->4,640 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->15,335 stars today
 </p>
 <br>
 
