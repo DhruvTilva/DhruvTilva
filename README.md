@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->What’s Happening in Space Policy October 11-17, 2026
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->25,784 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->25,585 stars today
 </p>
 <br>
 
