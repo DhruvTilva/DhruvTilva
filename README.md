@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->What’s Happening in Space Policy October 11-17, 2026
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->25,585 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->45,495 stars today
 </p>
 <br>
 
