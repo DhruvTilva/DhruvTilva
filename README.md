@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspec
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->45,495 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->rea &nbsp;⭐ <!--TREND_REPO_STARS-->54,706 stars today
 </p>
 <br>
 
