@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Artemis II Heat Shield After Splashdown
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwago
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->claude-plugins-official &nbsp;⭐ <!--TREND_REPO_STARS-->1,552 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->ai-job-search &nbsp;⭐ <!--TREND_REPO_STARS-->2,213 stars today
 </p>
 <br>
 
