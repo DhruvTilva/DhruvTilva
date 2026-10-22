@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->China readies first commercial resupply craft, first booster reflight, and next landing at
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Rethinking networks in space with Aalyria’s Brian Barritt
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->security-audit-skill &nbsp;⭐ <!--TREND_REPO_STARS-->1,997 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->php-src &nbsp;⭐ <!--TREND_REPO_STARS-->423 stars today
 </p>
 <br>
 
