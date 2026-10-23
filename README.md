@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Rethinking networks in space with Aalyria’s Brian Barritt
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Nov. 5: Satellite Mission Management at the Edge
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->php-src &nbsp;⭐ <!--TREND_REPO_STARS-->423 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->security-audit-skill &nbsp;⭐ <!--TREND_REPO_STARS-->2,706 stars today
 </p>
 <br>
 
