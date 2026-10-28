@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Ukrainian startup, GomSpace test satellite for future communications network
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Welcomes Vietnam as Newest Artemis Accords Signatory
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->AI adoption growing fast
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->ai-design-skills &nbsp;⭐ <!--TREND_REPO_STARS-->1,395 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->thinkrail &nbsp;⭐ <!--TREND_REPO_STARS-->1,075 stars today
 </p>
 <br>
 
