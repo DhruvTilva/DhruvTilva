@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Releases MAX POWER Key Events for Media, Participants
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->APOD: 2026 October 31 – Night on a Spooky Planet
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->claude-mem &nbsp;⭐ <!--TREND_REPO_STARS-->1,145 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->claude-mem &nbsp;⭐ <!--TREND_REPO_STARS-->1,723 stars today
 </p>
 <br>
 
