@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Trump Issues “American Declaration of Freedom in Space”
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Blue Origin reveals new kick stage, engines for its New Glenn rockets
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->Gemini expanding capabilities
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->auto-ontology &nbsp;⭐ <!--TREND_REPO_STARS-->2,053 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->auto-ontology &nbsp;⭐ <!--TREND_REPO_STARS-->2,707 stars today
 </p>
 <br>
 
