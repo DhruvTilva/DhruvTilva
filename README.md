@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Announces  Million to Students for Moon Base Challenge
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->sherlock &nbsp;⭐ <!--TREND_REPO_STARS-->2,372 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->skills &nbsp;⭐ <!--TREND_REPO_STARS-->1,038 stars today
 </p>
 <br>
 
