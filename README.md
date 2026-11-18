@@ -20,7 +20,7 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Claude-BugHunter &nbsp;⭐ <!--TREND_REPO_STARS-->1,005 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Claude-BugHunter &nbsp;⭐ <!--TREND_REPO_STARS-->2,322 stars today
 </p>
 <br>
 
