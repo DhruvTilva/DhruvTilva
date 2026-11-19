@@ -20,15 +20,15 @@
 <br>
 
 <h3>⚡ Live Updates (Realtime Updated) &nbsp;<img src="https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=flat-square&logo=github-actions"/></h3><p>
-📰 <b>Tech News:</b> <!--NEWS_TITLE-->NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
+📰 <b>Tech News:</b> <!--NEWS_TITLE-->Relativity tests Terran R second stage, completes structural qualifications ahead of inaug
 </p>
 
 <p>
-🤖 <b>AI Pulse:</b> <!--AI_LINE-->Claude improving reasoning
+🤖 <b>AI Pulse:</b> <!--AI_LINE-->LLMs evolving rapidly
 </p>
 
 <p>
-🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Claude-BugHunter &nbsp;⭐ <!--TREND_REPO_STARS-->2,322 stars today
+🔥 <b>Trending Repo Today:</b> <!--TREND_REPO_NAME-->Claude-BugHunter &nbsp;⭐ <!--TREND_REPO_STARS-->1,353 stars today
 </p>
 <br>
 
